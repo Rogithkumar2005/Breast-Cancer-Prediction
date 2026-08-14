@@ -6,18 +6,6 @@
 
 **Predict • Analyze • Learn • Innovate**
 
-</p>
-
----
-
-## 🖼️ Project Preview
-
-![Uploading image.png…]()
-
-
-> 📌 Add a screenshot of your Google Colab notebook, model output, graphs, or prediction results as `assets/project-preview.png`.
-
----
 
 ## 🌟 About
 
