@@ -13,7 +13,7 @@
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="assets/project-preview.png" alt="Breast Cancer Prediction Project Preview" width="850">
+  <img src="image.jpg" alt="Breast Cancer Prediction Project Preview" width="850">
 </p>
 
 > 📌 Add a screenshot of your Google Colab notebook, model output, graphs, or prediction results as `assets/project-preview.png`.
