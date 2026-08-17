@@ -251,7 +251,7 @@ You can run it using **Google Colab** or **Jupyter Notebook**.
 
 ## 👨‍💻 Author
 
-# **RogithKumar**
+# **RogithKumar M**
 
 🎓 Computer Science & Engineering
 🤖 Machine Learning Enthusiast
